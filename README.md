@@ -27,6 +27,13 @@
 ![image](https://user-images.githubusercontent.com/34908960/104868541-f7093e80-5986-11eb-947d-1fd961f06789.png)
 
 ---
+## 미션 수행 이력
+[1단계 - 테스트를 통한 코드 보호](https://github.com/willing1026/jwp-refactoring/commit/be69ded63bbb0f53ad3c4e5b9760aee93c8de1b8)
+[2단계 - 서비스 리팩터링](https://github.com/willing1026/jwp-refactoring/commit/f606f665ba5feb6c6f5fcf7c661b6fa5c3481f5a)
+[3단계 - 양방향을 단방향](https://github.com/willing1026/jwp-refactoring/commit/1f889a660211577f5fae4e7da880c8596a70b196)
+[4단계 - multi module 적용](https://github.com/willing1026/jwp-refactoring/commit/300a705d878d7ebf829ba154dd1607e6575b61f2)
+
+---
 ## 요구사항
 
 ### 상품
